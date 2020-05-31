@@ -1,0 +1,11 @@
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\bin\Debug\Aufgabenplan.exe.config
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\bin\Debug\Aufgabenplan.exe
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\bin\Debug\Aufgabenplan.pdb
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.Form1.resources
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.Properties.Resources.resources
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.csproj.GenerateResource.cache
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.exe
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.pdb
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.Form2.resources
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.csprojAssemblyReference.cache
+C:\Users\Jareesten\Desktop\Aufgabenplan\Aufgabenplan\obj\Debug\Aufgabenplan.Form3.resources
